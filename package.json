@@ -8,7 +8,7 @@
     "start": "webpack-dev-server --hot --inline --port 8000"
   },
   "author": "",
-  "license": "BSD-2-Clause",
+  "license": "MIT",
   "private": true,
   "devDependencies": {
     "webpack": "~1.12.1",
