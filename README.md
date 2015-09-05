@@ -11,5 +11,5 @@ npm install
 
 ## Usage
 ```
-NPM start  # starts the webpack development server on port 8000 with hotloading enabled.
+npm start  # starts the webpack development server on port 8000 with hotloading enabled.
 ```
