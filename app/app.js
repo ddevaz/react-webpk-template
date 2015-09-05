@@ -1,5 +1,6 @@
-import React from "react";
-import Greeting from "./greeting";
+
+var React = require('react');
+var Greeting = require('./greeting');
 
 React.render(
   <Greeting name="World"/>,
